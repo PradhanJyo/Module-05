@@ -8,7 +8,7 @@ Features
 
 -Sorts the integers in ascending order and saves it in Stack.
 
--Displays the unsorted and sorted lists.
+-Displays the unsorted and sorted Stack .
 
 ## Installation and Usage
 Prerequisites:
