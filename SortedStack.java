@@ -15,7 +15,7 @@ import java.util.Stack;
 
 public class SortedStack {
 /**
- * This is main method of SortedStack class
+ * This is main method of SortedStack class.It generates list of random integer and pass the list as a parameter to sortedStack() method.
  * @param args default parameter of a main - not used
  */
     public static void main(String[] args){
